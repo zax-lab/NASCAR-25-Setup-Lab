@@ -1,0 +1,18 @@
+{
+  "name": "NASCAR 25 Setup Lab",
+  "short_name": "N25 Lab",
+  "description": "A device-local, manual-entry NASCAR 25 race log and setup notebook.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090c0f",
+  "theme_color": "#ffb000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
